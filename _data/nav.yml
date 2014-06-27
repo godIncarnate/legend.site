@@ -17,7 +17,7 @@ nav:
     icon: icon-heart
     class: none
   - text: 博客源代码
-    url: #
+    url: https://github.com/godIncarnate/legend.site/
     icon: icon-github
     class: none
  
