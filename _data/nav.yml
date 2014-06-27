@@ -1,0 +1,23 @@
+#菜单配置
+nav:
+  - text: 首页
+    url: /index.html
+    icon: icon-home
+    class: home
+  - text: 文章归档
+    url: /archives.html
+    icon: icon-reorder
+    class: none
+  - text: 关于我
+    url: /contact.html
+    icon: icon-envelope-alt
+    class: none
+  - text: 联系我
+    url: #
+    icon: icon-heart
+    class: none
+  - text: 博客源代码
+    url: #
+    icon: icon-github
+    class: none
+ 

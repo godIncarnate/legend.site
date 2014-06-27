@@ -1,0 +1,25 @@
+pygments: true
+plugins: ./_plugins
+paginate: 5
+
+safe: false
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "autolink"]
+  
+
+#站点基础配置
+title: god incarnate
+subTitle: legend's blog.
+description: jekyll blog theme
+url: http://localhost:4000
+feed: /atom.xml
+
+
+
+
+author:
+  name:  legend
+  avatar: /static/images/author.jpg 
+
