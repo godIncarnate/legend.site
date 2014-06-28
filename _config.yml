@@ -14,7 +14,7 @@ redcarpet:
 title: god incarnate
 subTitle: legend's blog.
 description: jekyll blog theme
-url: http://godincarnate.github.io/legend.site/
+url: http://godincarnate.github.io/legend.site
 feed: /atom.xml
 
 
