@@ -7,10 +7,5 @@ page:
     last: true
   - text: 关于我
     url: contact.html
-    last: false
-  - text: 友情链接
-    url: links.html
     last: true
-  - text: 关于我
-    url: contact.html
-    last: false
+  
